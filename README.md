@@ -7,5 +7,4 @@ Se le agrego una seccion de blog con fines de agregar material didactico.
 ## tegnolofias y herramientas empleadas.
 la pagina web esta desarrollada con HTML, CSS, Bootstrap, JavaScript y jquary.
 
-## Demo del sitio.
-https://escuelaantoniamatildemata.000webhostapp.com/
+
